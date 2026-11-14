@@ -5,3 +5,5 @@
 
 ## Responsiblity of managing object from Application to Inversion of Control(IOC).
 #### IOC will give you object. You don't have to use new keyword or create object. IOC will give you…
+
+<img width="1352" height="255" alt="image" src="https://github.com/user-attachments/assets/cf4a8a77-66ce-44b2-b47d-59919699726d" />
