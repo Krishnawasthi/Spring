@@ -4,3 +4,4 @@
 <img width="901" height="256" alt="image" src="https://github.com/user-attachments/assets/688e24f5-9279-4b3b-8464-a16d3300d2ff" />
 
 ## Responsiblity of managing object from Application to Inversion of Control(IOC).
+#### IOC will give you object. You don't have to use new keyword or create object. IOC will give you…
