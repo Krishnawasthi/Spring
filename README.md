@@ -8,6 +8,8 @@
 
 <img width="1352" height="255" alt="image" src="https://github.com/user-attachments/assets/cf4a8a77-66ce-44b2-b47d-59919699726d" />
 
+<img width="848" height="292" alt="image" src="https://github.com/user-attachments/assets/62ef1b68-f98a-4b70-8db3-2af23b29e7d3" />
+### Every bean will have a unique Id. there so many beans in the IOC. to request the bean you need to supply the id.
 
 
 
