@@ -1,0 +1,23 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>learning </groupId>
+  <artifactId>creating-beans-using-java</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>Archetype - creating-beans-using-java</name>
+  <url>http://maven.apache.org</url>
+  <!-- Source: https://mvnrepository.com/artifact/org.springframework/spring-context -->
+<dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-context</artifactId>
+    <version>6.2.18</version>
+    <scope>compile</scope>
+</dependency>
+	<dependencies>
+		<dependency>
+			<groupId>com.infosys</groupId>
+			<artifactId>sample-set-up-check</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+	</dependencies>
+</project>
