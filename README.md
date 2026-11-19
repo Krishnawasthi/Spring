@@ -107,3 +107,4 @@ POJO stands for Plain Old Java Object. It is a simple Java class that is indepen
 
 - **POJO:** Ordinary Java object.
 - **Spring Bean:** Object managed by the Spring Io
+<img width="1247" height="282" alt="image" src="https://github.com/user-attachments/assets/1e4df0ed-f91c-4a91-b91a-4a0af3a48ed5" />
