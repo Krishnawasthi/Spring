@@ -122,3 +122,4 @@ POJO stands for Plain Old Java Object. It is a simple Java class that is indepen
 
 <img width="680" height="275" alt="image" src="https://github.com/user-attachments/assets/5adbca56-d6fa-41e3-9325-e983053707ff" />
 
+<img width="617" height="247" alt="image" src="https://github.com/user-attachments/assets/6b4aa9ca-090e-4707-875f-25796bc03277" />
