@@ -119,3 +119,6 @@ POJO stands for Plain Old Java Object. It is a simple Java class that is indepen
  <img width="1156" height="496" alt="image" src="https://github.com/user-attachments/assets/4e96c519-fde9-455b-91b4-3b6a2cd980c1" />
 ## if there is no qualifier then it used @primaryto execute as a default bean.
 ## qualifier will get the priority.
+
+<img width="680" height="275" alt="image" src="https://github.com/user-attachments/assets/5adbca56-d6fa-41e3-9325-e983053707ff" />
+
