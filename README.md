@@ -110,3 +110,4 @@ POJO stands for Plain Old Java Object. It is a simple Java class that is indepen
 <img width="1247" height="282" alt="image" src="https://github.com/user-attachments/assets/1e4df0ed-f91c-4a91-b91a-4a0af3a48ed5" />
  <img width="1342" height="95" alt="image" src="https://github.com/user-attachments/assets/85a5b377-5cf4-4907-a10d-ba1b6fe197ec" />
  ### this tells us which bean to be injected .
+<img width="896" height="200" alt="image" src="https://github.com/user-attachments/assets/e58ef661-2383-410c-ac15-e001d2b7f2d4" />
