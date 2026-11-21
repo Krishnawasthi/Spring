@@ -116,3 +116,5 @@ POJO stands for Plain Old Java Object. It is a simple Java class that is indepen
 ## when @Autowwired (dependency ) is there then IOC get confused that which bean to be executed.
 
 ### when we have conflict or ambiguity when multiple same of bean definition are returning the same type of bean(here employee type) then used @qualifier.
+ <img width="1156" height="496" alt="image" src="https://github.com/user-attachments/assets/4e96c519-fde9-455b-91b4-3b6a2cd980c1" />
+## if there is no qualifier then it used @primaryto execute as a default bean
