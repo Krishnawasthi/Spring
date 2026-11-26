@@ -579,6 +579,8 @@ HTTP Response
   ↓
 Client
 ```
+<img width="688" height="388" alt="image" src="https://github.com/user-attachments/assets/04f40931-5688-4912-915e-56fbe12aac85" />
+
 
 ### Final Takeaway
 
